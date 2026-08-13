@@ -13,3 +13,7 @@ Tracking how GitHub resolves commit author/committer across changes.
 
 ## Step 1c - username-only noreply
 - git user.email: ievgencoderoi1-ai@users.noreply.github.com
+
+## Step 2 - changed user.name
+- git user.name: ievgencoderoi1-ai-new
+- git user.email: ievgencoderoi1-ai@users.noreply.github.com (unchanged)
