@@ -17,3 +17,7 @@ Tracking how GitHub resolves commit author/committer across changes.
 ## Step 2 - changed user.name
 - git user.name: ievgencoderoi1-ai-new
 - git user.email: ievgencoderoi1-ai@users.noreply.github.com (unchanged)
+
+## Step 3 - renamed GitHub username
+- account renamed: ievgencoderoi1-ai -> ievgencoderoi1-ai-new (id=290055406)
+- git user.email still: ievgencoderoi1-ai@users.noreply.github.com (old username-only noreply)
