@@ -7,3 +7,6 @@ Tracking how GitHub resolves commit author/committer across changes.
 - git user.email: (unchanged at commit time; user manages email)
 - Expectation: committer resolves to the account (PASS) as long as the
   commit email maps to a GitHub account.
+
+## Step 1b - email now noreply
+- git user.email: 290055406+ievgencoderoi1-ai@users.noreply.github.com
